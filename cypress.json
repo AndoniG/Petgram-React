@@ -1,0 +1,6 @@
+{
+    "baseUrl": "https://curso-platzi-react-avanzado.andonig.now.sh",
+    "chromeWebSecurity": false,
+    "viewportWidth": 500,
+    "vieportHeight": 800
+}
